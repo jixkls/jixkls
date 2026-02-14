@@ -1,6 +1,6 @@
 # Hey, I'm Bettin 👋
 
-Freelance software developer from **Paraná, Brazil**. I build automation workflows, web and business applications — always looking for practical solutions that actually solve real problems.
+Freelance software developer from **Paraná, Brazil**. I build automation workflows, web and business applications, I'm always looking for practical solutions that actually solve real problems.
 
 ### 🔭 Currently working on
 
