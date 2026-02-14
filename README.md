@@ -1,34 +1,16 @@
 # Hey, I'm Bettin 👋
 
-Freelance software developer from **Paraná — Brazil**.
-I build automation workflows, web and business applications. Always looking for practical solutions that actually solve real problems.
+Freelance software developer from **Paraná, Brazil**. I build automation workflows, web and business applications — always looking for practical solutions that actually solve real problems.
 
----
+### 🔭 Currently working on
 
-### 🔭 What I'm currently working on
+- **Emito Nota** — Business management platform for small Brazilian companies (2026 tax reform). Inventory, customers, NFe issuance, tax reporting, and AI-powered business analysis. `Bun` `TypeScript` `Elysia` `PostgreSQL` `Drizzle` `Redis`
+- **Code Challenge Bot** — Telegram bot in Go using Google Gemini to generate programming challenges with difficulty levels and automated scheduling. `Go` `Gemini API` `Telegram Bot API`
 
-- **Telegram Code Challenge Bot** — A bot built in Go that uses Google Gemini to generate programming challenges with difficulty levels and automated scheduling.
-- **Emito Nota** — A business management platform for small Brazilian companies, built for the 2026 tax reform. Features inventory control, customer management, NFe issuance, tax reporting, and AI-powered business analysis that generates cost-reduction and growth insights. Built with Bun, TypeScript, Elysia, PostgreSQL, Drizzle ORM, and Redis.
+### 🛠️ Stack
 
-### 🛠️ Tools & Technologies
+**Languages:** Go, TypeScript · **Frameworks:** Elysia, Hono, Express, Next.js, net/http · **Databases:** PostgreSQL, Supabase, Redis · **ORMs:** Drizzle, Prisma · **Automation & AI:** n8n, Gemini API, AI Agents · **Integrations:** WhatsApp (Z-API), Google Calendar, Telegram Bot API, Stripe, AbacatePay · **Infra:** Docker, Git, Linux, Windows · **Other:** REST APIs, Data Structures, Algorithms
 
-**Languages:** Go and TypeScript
+### 📫 Reach me
 
-**Frameworks:** Elysia (Bun), Hono, Express (Nodejs), Nextjs, Net/Http
-
-**Automation & AI:** n8n, Google Gemini API, AI Agents
-
-**Databases:** Supabase (PostgreSQL mainly)
-
-**ORMs:** Drizzle and Prisma
-
-**APIs & Integrations:** WhatsApp (Z-API), Google Calendar, Telegram Bot API, Stripe, AbacatePay...
-
-**Infrastructure:** Docker, Git, Linux and Windows(Learning)
-
-**Other:** Web Development, REST APIs, Data Structures, Algorithms...
-
-### 📫 How to reach me
-
-- **Telegram:** [@Jixkls](https://t.me/Jixkls)
-- **Email:** [bettindiogo@gmail.com](mailto:bettindiogo@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@Jixkls-blue?logo=telegram)](https://t.me/Jixkls) [![Email](https://img.shields.io/badge/Email-bettindiogo@gmail.com-red?logo=gmail)](mailto:bettindiogo@gmail.com)
