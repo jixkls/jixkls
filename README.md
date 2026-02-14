@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Bettin 👋
 
-<!--
-**jixkls/jixkls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance software developer from **Paraná — Brazil**.
+I build automation workflows, web and business applications. Always looking for practical solutions that actually solve real problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 What I'm currently working on
+
+- **Telegram Code Challenge Bot** — A bot built in Go that uses Google Gemini to generate programming challenges with difficulty levels and automated scheduling.
+- **Emito Nota** — A business management platform for small Brazilian companies, built for the 2026 tax reform. Features inventory control, customer management, NFe issuance, tax reporting, and AI-powered business analysis that generates cost-reduction and growth insights. Built with Bun, TypeScript, Elysia, PostgreSQL, Drizzle ORM, and Redis.
+
+### 🛠️ Tools & Technologies
+
+**Languages:** Go and TypeScript
+
+**Frameworks:** Elysia (Bun), Hono, Express (Nodejs), Nextjs, Net/Http
+
+**Automation & AI:** n8n, Google Gemini API, AI Agents
+
+**Databases:** Supabase (PostgreSQL mainly)
+
+**ORMs:** Drizzle and Prisma
+
+**APIs & Integrations:** WhatsApp (Z-API), Google Calendar, Telegram Bot API, Stripe, AbacatePay...
+
+**Infrastructure:** Docker, Git, Linux and Windows(Learning)
+
+**Other:** Web Development, REST APIs, Data Structures, Algorithms...
+
+### 📫 How to reach me
+
+- **Telegram:** [@Jixkls](https://t.me/Jixkls)
+- **Email:** [bettindiogo@gmail.com](mailto:bettindiogo@gmail.com)
