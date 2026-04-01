@@ -9,7 +9,7 @@ Freelance software developer from **Paraná, Brazil**. I build automation workfl
 
 ### 🛠️ Stack
 
-**Languages:** Go, TypeScript · **Frameworks:** Elysia, Hono, Express, Next.js, net/http · **Databases:** PostgreSQL, Supabase, Redis · **ORMs:** Drizzle, Prisma · **Automation & AI:** n8n, Gemini API, AI Agents · **Integrations:** WhatsApp (Z-API), Google Calendar, Telegram Bot API, Stripe, AbacatePay · **Infra:** Docker, Git, Linux, Windows · **Other:** REST APIs, Data Structures, Algorithms
+**Languages:** TypeScript and Java · **Frameworks:** Elysia, Hono, Fastify, Express, Next.js, Spring · **Databases:** PostgreSQL, Supabase, Redis · **ORMs:** TypeORM · **Automation & AI:** n8n, Gemini API, AI Agents · **Integrations:** WhatsApp (Z-API), Google Calendar, Telegram Bot API, Stripe, AbacatePay, Mercado Pago · **Infra:** Docker, Git, Linux, Windows · **Other:** REST APIs, Data Structures, Algorithms
 
 ### 📫 Reach me
 
