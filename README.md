@@ -1,16 +1,35 @@
 # Hey, I'm Bettin 👋
 
-Freelance software developer from **Paraná, Brazil**. I build automation workflows, web and business applications, I'm always looking for practical solutions that actually solve real problems.
+Full-Stack Software Developer from Paraná, Brazil.  
+I build APIs, web applications, automation workflows, and business systems focused on clean architecture, performance, reliability, and maintainable code.
 
-### 🔭 Currently working on
+I have experience developing full-stack platforms from scratch, working with billing flows, access control, structured logs, e-commerce, checkout, payments, webhooks, background jobs, AI-powered reports, and business management systems.
 
-- **Emito Nota** — Business management platform for small Brazilian companies (2026 tax reform). Inventory, customers, NFe issuance, tax reporting, and AI-powered business analysis. `Bun` `TypeScript` `Elysia` `PostgreSQL` `Drizzle` `Redis`
-- **Code Challenge Bot** — Telegram bot in Go using Google Gemini to generate programming challenges with difficulty levels and automated scheduling. `Go` `Gemini API` `Telegram Bot API`
+## 🛠️ Currently working on
 
-### 🛠️ Stack
+- **ServiceOps** — Service management platform built with **Ruby on Rails**, focused on organizing clients, service orders, operational workflows, team productivity, and business process automation.
 
-**Languages:** TypeScript and Java · **Frameworks:** Elysia, Hono, Fastify, Express, Next.js, Spring · **Databases:** PostgreSQL, Supabase, Redis · **ORMs:** TypeORM · **Automation & AI:** n8n, Gemini API, AI Agents · **Integrations:** WhatsApp (Z-API), Google Calendar, Telegram Bot API, Stripe, AbacatePay, Mercado Pago · **Infra:** Docker, Git, Linux, Windows · **Other:** REST APIs, Data Structures, Algorithms
+## 🚀 Featured projects
 
-### 📫 Reach me
+- **bicopay** — Payment gateway simulator focused on backend architecture, transaction processing, authentication, idempotency, async workers, webhooks, refunds, and reporting.  
+  `TypeScript` `PostgreSQL` `Redis` `Payments` `Webhooks` `Architecture`
 
-[![Telegram](https://img.shields.io/badge/Telegram-@Jixkls-blue?logo=telegram)](https://t.me/Jixkls) [![Email](https://img.shields.io/badge/Email-bettindiogo@gmail.com-red?logo=gmail)](mailto:bettindiogo@gmail.com)
+- **ServiceOps** — Business operations platform for managing service-based companies, including clients, orders, workflow tracking, internal operations, and admin features. Built as a portfolio project to practice Ruby on Rails with real-world SaaS patterns.  
+  `Ruby` `Ruby on Rails` `PostgreSQL` `SaaS` `Business Management`
+
+## ⚙️ Stack
+
+**Languages:** TypeScript, Java, Ruby  
+**Backend:** Node.js, Elysia, Hono, Fastify, Express, Ruby on Rails, Spring  
+**Frontend:** React, Next.js, Vite  
+**Databases:** PostgreSQL, Supabase, Redis  
+**ORMs:** Drizzle ORM, TypeORM, Active Record  
+**Automation & AI:** n8n, Gemini API, AI Agents  
+**Integrations:** Mercado Pago, Stripe, AbacatePay, WhatsApp Z-API, Google Calendar, Telegram Bot API  
+**Infra:** Docker, Linux, AWS EC2, Nginx, GitHub Actions, Vercel, Fly.io  
+**Other:** REST APIs, Webhooks, Data Structures, Algorithms
+
+## 📫 Reach me
+
+[![Telegram](https://img.shields.io/badge/Telegram-@jixkls-blue?logo=telegram)](https://t.me/jixkls)
+[![Email](https://img.shields.io/badge/Email-bettindiogo@gmail.com-red?logo=gmail)](mailto:bettindiogo@gmail.com)
