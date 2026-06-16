@@ -19,7 +19,7 @@ I have experience developing full-stack platforms from scratch, working with bil
 
 ## ⚙️ Stack
 
-**Languages:** TypeScript, Java, Ruby  
+**Languages:** TypeScript, Java, Ruby  --> Go (Learning)
 **Backend:** Node.js, Elysia, Hono, Fastify, Express, Ruby on Rails, Spring  
 **Frontend:** React, Next.js, Vite  
 **Databases:** PostgreSQL, Supabase, Redis  
